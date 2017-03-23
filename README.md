@@ -1,5 +1,5 @@
 # Effacor
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
 **Effacor** is a secure file deletion utility built using IronPython and Windows 
 Presentation Foundation. It provides a drag-and-drop GUI, and provides for use 
 of the following algorithms:
